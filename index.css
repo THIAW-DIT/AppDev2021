@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    color: blueviolet;
+}
+header a:hover{
+    color: chartreuse;
+    background-color: hotpink; 
+
+}
+
+header a{
+    color: rgb(11, 128, 231);
+    text-decoration: none;
+    padding: 12px;
+}
+header div{
+    width: 1170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
