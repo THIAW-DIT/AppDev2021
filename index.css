@@ -96,4 +96,26 @@ header div{
 .description-business{
     width: 573px;
 }
+/* footer */
+footer{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+footer p{
+    margin: 80px;
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+footer div{
+    display: flex;
+    align-items: center;
+    
+}
+footer div a{
+    text-decoration: none;
+    font-weight: bold;
+}
 
