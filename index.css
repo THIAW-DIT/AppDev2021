@@ -86,4 +86,14 @@ header div{
    justify-content: center
     
 }
+/* notre entreprise */
+.busness{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+
+}
+.description-business{
+    width: 573px;
+}
 
